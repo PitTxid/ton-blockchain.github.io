@@ -376,14 +376,6 @@
       }
     },
     {
-      "ip": 868465979,
-      "port": 19434,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "J5CwYXuCZWVPgiFPW+NY2roBwDWpRRtANHSTYTRSVtI="
-      }
-    },
-    {
       "ip": 868466060,
       "port": 23067,
       "id": {
