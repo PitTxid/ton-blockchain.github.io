@@ -289,7 +289,7 @@
   "liteservers": [
   {
                       "ip": -1185526007,
-                        "port": 22096
+                        "port": 22096,
       "id": {
                 "@type": "pub.ed25519",
                 "key": "6PGkPQSbyFp12esf1NqmDOaLoFA8i9+Mp5+cAx5wtTU="
