@@ -288,12 +288,12 @@
   },
   "liteservers": [
   {
-      "ip": 84478511,
-      "port": 19949,
+                      "ip": -1185526007,
+                        "port": 22096
       "id": {
-        "@type": "pub.ed25519",
-        "key": "n4VDnSCUuSpjnCyUk9e3QOOd6o0ItSWYbTnW3Wnn8wk="
-      }
+                "@type": "pub.ed25519",
+                "key": "6PGkPQSbyFp12esf1NqmDOaLoFA8i9+Mp5+cAx5wtTU="
+            }
     }
   ],
   "validator": {
