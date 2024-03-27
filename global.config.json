@@ -360,14 +360,6 @@
       }
     },
     {
-      "ip": -1539021936,
-      "port": 20334,
-      "id": {
-        "@type": "pub.ed25519",
-        "key": "gyLh12v4hBRtyBygvvbbO2HqEtgl+ojpeRJKt4gkMq0="
-      }
-    },
-    {
       "ip": -1136338705,
       "port": 19925,
       "id": {
